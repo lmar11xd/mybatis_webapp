@@ -1,0 +1,15 @@
+h1 {
+  color: #1976d2;
+  font-weight: bold;
+}
+table {
+  width: 100%;
+}
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+.mat-grid-tile-content {
+  padding: 10px;
+  display: block;
+}
